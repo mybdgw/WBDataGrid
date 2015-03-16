@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  WBMainVC.h
 //  WBDataGrid
 //
 //  Created by dylan_lwb_ on 15/3/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface WBMainVC : UIViewController
 
 @end
-
